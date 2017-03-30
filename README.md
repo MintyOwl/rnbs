@@ -22,6 +22,6 @@ Binaries will be available (soon)
 
 Note:
 
-* I dont have MacOS, so ios is not tested. However, theoritically you should be able to run *react-native run-ios*
+* I dont have MacOS, so ios is not tested. However, theoretically you should be able to run *react-native run-ios*
 
 * I need to know what build folders are created for ios. For ex: in android (on Windows 10), you have .gradle, androis/app/build and android/build folders after run-android.
