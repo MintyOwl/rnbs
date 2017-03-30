@@ -16,7 +16,7 @@ Binaries will be available (soon)
 
     rnbs.exe path/to/MyAwesomeProject path/to/BrandNewAmazingProject
 
-* Where ***BrandNewAmazingProject*** is a folder/direcotory that doesnot exist, will be created for you with all your existing boilpate from ***MyAwesomeProject***
+* Where ***BrandNewAmazingProject*** is a folder/directory that doesnot exist, will be created for you with all your existing boilpate from ***MyAwesomeProject***
 
 * Now just do *react-native run-android* inside ***BrandNewAmazingProject***
 
