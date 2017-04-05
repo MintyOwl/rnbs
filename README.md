@@ -1,6 +1,8 @@
 # rnbs
 Bootstrap your boilerplate RN project
 
+![demo](https://github.com/MintyOwl/rnbs/blob/master/rnbs.gif)
+
 ## Install from binary
 Binaries will be available (soon)
 
